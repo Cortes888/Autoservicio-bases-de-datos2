@@ -26,9 +26,7 @@ La base `AutoServicioDB` tiene 10 tablas y 5.211 registros:
 
 Los scripts están en la carpeta `sql`: `01_creacion_bd.sql` crea las tablas, `02_carga_datos.sql` carga los datos y `03_validacion_sql.sql` tiene consultas para revisarlos.
 
-## Modelo documental (MongoDB)
 
-![Modelo documental](docs/modelo_documental.png)
 
 No pasamos cada tabla a una colección. Las 10 tablas quedaron en 7 colecciones:
 

@@ -6,9 +6,7 @@
 
 Escogimos una red de talleres de mantenimiento de carros con 6 sedes (Laureles, Poblado, Envigado, Bello, Itagüí y Rionegro). Cuando un carro llega a una sede se abre una **orden de trabajo**, un mecánico le hace uno o varios **servicios** (cambio de aceite, frenos, alineación, etc.) y se usan **repuestos** del inventario, que se le compran a varios **proveedores**.
 
-## Modelo relacional (SQL Server)
 
-![Modelo relacional](docs/modelo_relaciona (l).png)
 
 La base `AutoServicioDB` tiene 10 tablas y 5.211 registros:
 

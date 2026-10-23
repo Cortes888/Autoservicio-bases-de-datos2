@@ -8,7 +8,7 @@ Escogimos una red de talleres de mantenimiento de carros con 6 sedes (Laureles, 
 
 ## Modelo relacional (SQL Server)
 
-![Modelo relacional](docs/modelo_relacional.png)
+![Modelo relacional](docs/modelo_relaciona (l).png)
 
 La base `AutoServicioDB` tiene 10 tablas y 5.211 registros:
 

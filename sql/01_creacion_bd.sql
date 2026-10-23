@@ -1,10 +1,8 @@
-/* =====================================================================
-   TALLER EVALUATIVO 3 - BASES DE DATOS II
+/* ====================================================================
    Caso de estudio: AutoServicio Antioquia
    Red de talleres de mantenimiento automotriz (6 sedes)
 
-   Script 01: creación de la base de datos y de las 10 entidades
-   Motor: SQL Server 2019 o superior
+   creación de la base de datos y de las 10 entidade
    ===================================================================== */
 
 IF DB_ID('AutoServicioDB') IS NOT NULL
